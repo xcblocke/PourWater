@@ -1,0 +1,19 @@
+{
+  "__type__": "cc.Material",
+  "_name": "avatar_0.50_0.01 - 001",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "03f488b8-3b9f-47af-956b-50e8cee38327"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "feather": 1,
+        "round": 0.01
+      },
+      "defines": {}
+    }
+  }
+}

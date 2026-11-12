@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7a83e9c2-48f4-42c3-bb6c-6610d817e42f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 968,
+  "height": 137,
+  "platformSettings": {},
+  "subMetas": {
+    "15_底部木质装饰条": {
+      "ver": "1.0.6",
+      "uuid": "e5e0d093-53c7-4a4e-a639-d8eee9943af7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7a83e9c2-48f4-42c3-bb6c-6610d817e42f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 964,
+      "height": 135,
+      "rawWidth": 968,
+      "rawHeight": 137,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "19d607ee-e0c1-468d-915e-e1a6c76189fc",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 150,
+  "height": 153,
+  "platformSettings": {},
+  "subMetas": {
+    "03_设置齿轮按钮": {
+      "ver": "1.0.6",
+      "uuid": "f8f6e3a0-30e3-44f4-9128-8b5c82acd232",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "19d607ee-e0c1-468d-915e-e1a6c76189fc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 146,
+      "height": 149,
+      "rawWidth": 150,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

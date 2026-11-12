@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f7c2bbf1-f24f-439a-93c1-73cd6a798f3a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 146,
+  "height": 291,
+  "platformSettings": {},
+  "subMetas": {
+    "11_灯笼装饰": {
+      "ver": "1.0.6",
+      "uuid": "521f1cc0-3214-4cf5-a982-5c48713827ea",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f7c2bbf1-f24f-439a-93c1-73cd6a798f3a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 143,
+      "height": 289,
+      "rawWidth": 146,
+      "rawHeight": 291,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

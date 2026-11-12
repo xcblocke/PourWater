@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d5ec329a-bf7a-4a46-bbee-a4e549a2785e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 384,
+  "height": 140,
+  "platformSettings": {},
+  "subMetas": {
+    "看视频马上抽奖@2x": {
+      "ver": "1.0.6",
+      "uuid": "e3c24546-41f2-41e4-993e-01296c593ccb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d5ec329a-bf7a-4a46-bbee-a4e549a2785e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 384,
+      "height": 140,
+      "rawWidth": 384,
+      "rawHeight": 140,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

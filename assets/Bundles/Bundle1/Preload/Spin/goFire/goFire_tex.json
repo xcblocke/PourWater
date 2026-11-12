@@ -1,0 +1,1 @@
+{"width":512,"imagePath":"goFire_tex.png","height":256,"name":"goFire","SubTexture":[{"width":458,"y":1,"height":128,"name":"fireButton","x":1},{"frameX":-2,"frameHeight":58,"y":1,"frameY":-2,"frameWidth":52,"width":48,"height":55,"name":"fire","x":461}]}

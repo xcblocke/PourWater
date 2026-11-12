@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "61ce4694-b3e4-45ad-b721-649dac92e00f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 108,
+  "height": 94,
+  "platformSettings": {},
+  "subMetas": {
+    "tianjiayoujiangIcon": {
+      "ver": "1.0.6",
+      "uuid": "b03e54cb-629f-47a0-9c7d-098aae76778b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "61ce4694-b3e4-45ad-b721-649dac92e00f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 106,
+      "height": 92,
+      "rawWidth": 108,
+      "rawHeight": 94,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
